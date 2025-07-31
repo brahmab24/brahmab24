@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I’m Brahma
 
-<!--
-**brahmab24/brahmab24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a **SEO Specialist & Digital Marketing Writer** from Cambodia.  
+I help websites rank higher through content strategy and backlink optimization.
 
-Here are some ideas to get you started:
+🚀 Saat ini saya sedang nulis di [zaanferry.com](https://zaanferry.com):
+- 🔑 Keyword Research
+- ✍️ SEO-friendly Copywriting
+- 🔗 Manual Backlink Building
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📬 Open for collaboration!
+
+---
+
+## 🔗 Connect with me:
+- [Medium](https://medium.com/@brahmacsry)
+- [About.me](https://about.me/casroary)
+- [Gravatar](https://gravatar.com)
