@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Brahma
+# 👋 Hi, I’m jack
 
 I’m a **SEO Specialist & Digital Marketing Writer** from Cambodia.  
 I help websites rank higher through content strategy and backlink optimization.
